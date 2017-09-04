@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Androidstudyjam</string>
+        <string name="empatou">EMPATOU</string>
+        <string name="houve_empate">Mas poxa vida!</string>
+</resources>
